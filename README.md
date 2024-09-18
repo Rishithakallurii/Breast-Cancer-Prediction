@@ -12,3 +12,6 @@ datsetlink --https://www.kaggle.com/datasets/nancyalaswad90/breast-cancer-datase
 
 # Results
 The Logistic Regression model achieved a prediction accuracy of 99.35%. Detailed results and model performance metrics can be found in the notebook
+
+# Contact
+For any questions or feedback, please contact rishithakalluri22@gmail.com.
